@@ -9,4 +9,7 @@ class Artist
   def songs
     @@all 
   end
+  
+  def self.save
+    
 end 
