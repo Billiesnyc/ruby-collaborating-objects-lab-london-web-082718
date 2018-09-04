@@ -14,6 +14,6 @@ class Artist
     end
   
   def self.save
-    @@all << save
+    @@all << self
   end
 end 
